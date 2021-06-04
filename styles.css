@@ -1,0 +1,51 @@
+body{
+  background-color:lightblue;
+}
+h1{
+  color: white;
+    font-family: verdana, sans-serif;
+}
+.evil {
+  color: red;
+  font-family: serif;
+}
+p {
+  line-height: 0.5;
+  margin-top: 10px;
+}
+span {
+  margin:0 2px 0 2px;
+}
+.cement {
+  background-color: palegoldenrod;
+  width: 790px;
+  padding: 3px 0 1px 5px;
+}
+.brick {
+  background-color:peru;
+  color:peru;
+
+}
+.dark-brick {
+  background-color: indianred;
+  color:indianred;
+}
+.evil-brick {
+   background-color: indianred;
+  color:indianred;
+}
+.evil-brick:hover {
+   background-color: red;
+  color:black;
+  font-size:40px;
+}
+.evil-brick:focus {
+   background-color: red;
+  color:black;
+    font-size:40px;
+}
+.grass {
+  background-color: green;
+  width:100%;
+  height:100px;
+}
